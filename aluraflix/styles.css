@@ -1,4 +1,12 @@
 body {
 color:white;
-background: purple;
+background: rgb(47, 15, 47) 
+}
+body {margin: 4px;}
+header {
+border-bottom: solid 1px rgb(106, 93, 133); 
+}
+header {padding: 20px;
+font-size: 30px;
+color: rgb(106, 93, 133);
 }
